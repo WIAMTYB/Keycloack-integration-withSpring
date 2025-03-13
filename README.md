@@ -20,22 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone git@github.com:ali-bouali/keycloak-integration-with-spring-boot-3.git
-    ```
-2. Navigate into the project directory:
-    ```bash
-    cd your-repository-name
-    ```
-3. Use Maven to build the project:
-    ```bash
-    mvn clean install
-    ```
-4. You can then run the Spring Boot application using:
-    ```bash
-    mvn spring-boot:run
-    ```
+
 
 ### Keycloak Setup
 
